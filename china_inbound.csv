@@ -1,0 +1,33 @@
+from,to,year,value
+India,China,2017,23198
+India,China,2022,23198
+Kazakhstan,China,2022,15000
+Kazakhstan,China,2017,11784
+Pakistan,China,2017,24000
+Pakistan,China,2022,28032
+South Korea,China,2022,50600
+South Korea,China,2017,50600
+Tajikistan ,China,2022,4000
+Thailand,China,2022,28608
+Thailand,China,2017,28608
+Uzbekistan,China,2022,8000
+United States of America,China,2017,20996
+Russia,China,2017,19239
+Indonesia,China,2017,15050
+Lao,China,2017,14645
+Japan,China,2017,14230
+Viet Nam,China,2017,11299
+Bangladesh,China,2017,10735
+France,China,2017,10695
+Mongolia,China,2017,10158
+Malaysia,China,2017,9479
+United States of America,China,2022,20996
+Russia,China,2022,19239
+Indonesia,China,2022,15050
+Lao,China,2022,14645
+Japan,China,2022,14230
+Viet Nam,China,2022,11299
+Bangladesh,China,2022,10735
+France,China,2022,10695
+Mongolia,China,2022,10158
+Malaysia,China,2022,9479
