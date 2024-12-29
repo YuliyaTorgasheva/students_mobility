@@ -26,65 +26,65 @@ This repository contains a notebook, additional data, charts, and an article aim
 
 <p>Let’s start with the world. Russia consistently ranks 6th to 7th in the world for student imports. In recent years, it has been growing faster than the overall market. While globally, the number of international students increased by 22% over the last five years (from 2017 to 2022) — from 5.1 million to 6.3 million people, in Russia, the increase was 60% — from 211 thousand to 334 thousand people. (Note: Here and below, the number of foreign students per year refers to students of all courses, not just those admitted that year.)
 
-![Alt Text](world_higher_ed_market_2017_2022_en.png)
+![Alt Text](images/world_higher_ed_market_2017_2022_en.png)
 
-![Alt Text](total_inbound_students_by_countries_2017_2022_en.png)
+![Alt Text](images/total_inbound_students_by_countries_2017_2022_en.png)
 
 <p>However, other market leaders (except for the current leader — the USA) have also grown at similar rates — Germany, Canada, and the UK, while Turkey has grown much faster — more than twice as much. The post-COVID world is catching up: among countries with an influx of 100,000 students are Argentina, South Korea, and the Netherlands, all with growth exceeding 50% over five years. In the group of countries with an influx of 50-100 thousand students, Iran stands out with growth from 20 to 94 thousand over five years and Kyrgyzstan from 15 to 80 thousand.
 
-![Alt Text](top_20_world_hihger_education_market_shares_2017_2022_en.png)
+![Alt Text](images/top_20_world_hihger_education_market_shares_2017_2022_en.png)
 
 <p>However, Russia's place in the top 10 is specific. Strictly speaking, it operates somewhat in a different market. Unlike other leaders, Russia has historically competed little for students from major donor countries — China and India. Now it competes slightly better, as Russia's share in these markets is growing faster than the number of students leaving from them. From China to Russia go 4.2% of students (nevertheless, growth since 2017 is significant — it was 1.6%), from India — 2.7% (it was 1.9%).
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(India)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(India)_2017_2022.png)
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(China)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(China)_2017_2022.png)
 
 <p>At the same time, due to differences in volumes, Russia itself is more dependent on these countries: in 2022, 13.7% of foreign students were from China and 6.6% from India.
 
-![Alt Text](top_20_countries_inbound_to_russia_2017_2022_en.png)
+![Alt Text](images/top_20_countries_inbound_to_russia_2017_2022_en.png)
 
 <p>Traditionally, Central Asian countries were Russia's main market: in 2017, they accounted for 63% of students. Among them, Kazakhstan and Uzbekistan were the main markets, with 65 and 20 thousand students arriving respectively in 2017.
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(Uzbekistan)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(Uzbekistan)_2017_2022.png)
 
 <p>For them, Russia was the main destination for studying abroad. Thus, in 2017, 64% of all outgoing students from Uzbekistan went to study in Russia and 68% of students from Kazakhstan.
 
 <p>But by 2022, only 36% of students from Uzbekistan went to Russia, although in absolute terms this number increased from 20 to 48 thousand. The paradox is easily explained by what is happening in higher education in this country. In the late '90s, the number of students relative to the population in Uzbekistan sharply decreased; the country found itself second to last among CIS countries by this indicator (the last being Turkmenistan). By the end of the 2010s, Uzbekistan began to catch up with other Central Asian countries and made an incredible leap over the last five years — the number of students per population tripled and is now greater than that in all CIS countries, including Russia (364 people per 10 thousand population).
 
-![Alt Text](Number_of_students_Subplots_Line_Chart.png)
+![Alt Text](images/Number_of_students_Subplots_Line_Chart.png)
 
 <p>In addition to a young population, this success was facilitated by liberalization of the higher education market, resulting in dozens of new universities opening in Uzbekistan — both local and foreign (their number increased from 72 in 2017 to 198 in 2022).
 
 <p>As a result of this boom in higher education, families from Uzbekistan have increased their demand for foreign education as well; thus, Uzbekistan has become the fourth-largest source of student export worldwide — in 2022, 133 thousand students left for study abroad; by 2023 this number had already reached 150 thousand.
 
-![Alt Text](Outbound_students_by_countries_2017_2022_en.png)
+![Alt Text](images/Outbound_students_by_countries_2017_2022_en.png)
 
 <p>And who took most of this cream? Kyrgyzstan — where in 2022, 39% of students from Uzbekistan went. Russia came second; Kazakhstan and Turkey are following. The factor influencing the choice of Kyrgyzstan is price: education here is almost twice as cheap as in Uzbekistan itself, and even more so in Kazakhstan or Russia.
 
 <p>Russia's share of student outflow from Kazakhstan decreased from 68% to 58%, but here too there was a decrease in volume — from 65 to 53 thousand people. Changes occurred in favor of China and also Turkey.
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(Kazakhstan)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(Kazakhstan)_2017_2022.png)
 
 <p>It’s good that Russia has Turkmenistan and Tajikistan — both volumes are increasing there as well as Russia's share slightly increasing too. Besides Russia, Turkmenistan continues sending students to Turkey (Belarus suffers losses here), and recently they have started going to Uzbekistan.
 
-![Alt Text](top_5_destinations_sankey_diagrams_Central_Asia_en.png)
+![Alt Text](images/top_5_destinations_sankey_diagrams_Central_Asia_en.png)
 
-![Alt Text](top_5_destinations_sankey_diagrams_Europe_Caucasus_en.png)
+![Alt Text](images/top_5_destinations_sankey_diagrams_Europe_Caucasus_en.png)
 
 <p>Turkey seems to have completely displaced Russia on the Azerbaijani market as well. If in 2017 the ratio was 46% for Turkey and 35% for Russia respectively, by 2022 it became 66% and only 16%. Let’s recall about Turkey’s twofold increase in international students; every little makes Erdoğan’s mickle.
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(Azerbaijan)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(Azerbaijan)_2017_2022.png)
 
 <p>An interesting development occurred with Belarus — Russia lost its first place to Poland. In 2017, there were studying there: 24% of Belarusian international students; by 2022, this figure rose to 42%; while in Russia it dropped from 55% to 40%.
 
-![Alt Text](Top-10_Countries_for_Student_Outflow_(Belarus)_2017_2022.png)
+![Alt Text](images/Top-10_Countries_for_Student_Outflow_(Belarus)_2017_2022.png)
 
 <p>However, agents from Russian universities are achieving solid victories in African and Arab countries. More than 20 thousand students are enrolled from Egypt and nearly 7 thousand from Iran — this is practically growth from zero. There are also 3-4 thousand students studying at Russian universities from Iraq, Syria, and Morocco instead of previously arriving 1-1.5 thousand. 
 
 <p>Egypt is one of the most successful cases: over five years, student inflow from there to Russia increased twentyfold — from 660 to 16 thousand students while total inflow into all countries doubled — from 29 to 61 thousand students.
 
-![Alt Text](Russia_share_outbound_flows_by_country_en.png)
+![Alt Text](images/Russia_share_outbound_flows_by_country_en.png)
 
 <p>Changes in other countries are measured in hundreds and rather non-sugnificant.
 
